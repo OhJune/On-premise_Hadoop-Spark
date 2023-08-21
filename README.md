@@ -1,5 +1,7 @@
 # Hadoop-Spark 쇼핑몰 로그 데이터 분석
 
+* 개인 프로젝트
+
 ![image](https://github.com/OhJune/Hadoop-Spark/assets/124857930/bf2d60bd-a6cc-41b4-9294-54d8365f98a6)
 
 
