@@ -1,4 +1,4 @@
-# Hadoop-Spark 쇼핑몰 로그 데이터 분석
+# Hadoop-Spark 쇼핑몰 고객행동 데이터 분석
 
 > 개인 프로젝트
 
