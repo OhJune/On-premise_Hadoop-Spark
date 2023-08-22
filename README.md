@@ -34,4 +34,27 @@
 
 ### Spark 
 
+* 주피터 서버에서 pyspark 커널을 통해서 Sparksession을 연결하였습니다. 커널은 cpu의 자원할당문제로 인해 2개만 만들었습니다.
+
+
+### 로그데이터 
+
+<div markdown="1">
+
+|  컬럼명 | 컬럼설명 |
+|--|--|
+| **`event_time`** | 이벤트 발생 시간 |
+| **`event_type`** | 이벤트 유형 |
+| **`product_id`** | 상품 id |
+| **`category_id`** | 카테고리 id |
+| **`category_code`** | 카테고리 분류 |
+| **`brand`** | 브랜드명 |
+| **`price`** | (상품)가격 |
+| **`user_id`**| 유저 id |
+| **`user_session`** | 유저 세션 |
+
+</div>
+
+  
+
 
