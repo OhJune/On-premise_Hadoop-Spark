@@ -17,8 +17,9 @@
 
       haddop 구성 : client , namenode, secondnode, datanode1, datanode2, datanode3, datanode4, datanode5
 
-
-![image](https://github.com/OhJune/Hadoop-Spark/assets/124857930/b45441a2-e515-4529-80bb-1cb5cb61a762)
+<p align="center">
+<img src = "https://github.com/OhJune/Hadoop-Spark/assets/124857930/b45441a2-e515-4529-80bb-1cb5cb61a762" width="600" height="600">
+</p>
 
 
 * 각 각의 노트북은 ssh키로 연결하였습니다.
@@ -27,9 +28,9 @@
    * vim /etc/hosts : hosts파일에 각 노드들의 고정 ip 추가
 * ufw 리눅스 방화벽을 중지하였습니다. ufw방확벽 때문에 클러스트 간의 데이터 통신이 제한됨.
 * 각 노드들에게 고정 ip를 통해서 client에서 네트워크 통신을 설정.
-  
+  <p align="center">
   <img src = "https://github.com/OhJune/Hadoop-Spark/assets/124857930/e7d6c214-f4de-4618-98c9-873410738f0c" width="300" height="300"/>
-
+  </p>
 
 ### Spark 
 
