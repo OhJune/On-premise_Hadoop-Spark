@@ -20,10 +20,20 @@
 
 ### 🐘Hadoop Cluster 서버 구축 
 ---
-
 총 8개 노트북으로 Hadoop cluster 구축
 
-      운영 체제 : Ubuntu22.04
+      - 노트북 스펙
+        - OS : Windows 10 HOME
+        - 프로세서 : Intel(R) Core(TM) i5-7200U CPU
+        - RAM : 16GB
+        - ssd : 256GB
+       
+      - 서버 환경 설정
+        - OS : Ubuntu 22.04 LTS
+        - Hadoop : 3.2.1
+        - jdk : 1.8.0
+        - spark : 3.2.4
+        - python : 3.10.10 (miniconda 환경)
 
       haddop 구성 : client , namenode, secondnode, datanode1, datanode2, datanode3, datanode4, datanode5
 
