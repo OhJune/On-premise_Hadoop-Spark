@@ -1,4 +1,4 @@
-# Hadoop-Spark 쇼핑몰 고객행동 데이터 분석
+# On-Premise로 구축한 Hadoop-Spark로 쇼핑몰 고객행동 데이터 분석(feat.단일모드와 빅쿼리 속도비교)
 
 > 개인 프로젝트
 
