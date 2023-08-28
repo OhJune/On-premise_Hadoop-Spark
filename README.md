@@ -48,16 +48,7 @@
    * ssh 퍼블릭 키를 1개로 모아서 모든 노드에 전달
    * 총 8대의 노드들 모두 생성 후 ssh키를 공유하고서 하나의 authorized_keys로 생성 후 전달
    * vim /etc/hosts : hosts파일에 각 노드들의 고정 ip 추가
-* ufw 리눅스 방화벽을 중지하였습니다. ufw방확벽 때문에 클러스트 간의 데이터 통신이 제한됨.
-* 각 노드들에게 고정 ip를 통해서 client에서 네트워크 통신을 설정.
-  <p align="center">
-  <img src = "https://github.com/OhJune/Hadoop-Spark/assets/124857930/e7d6c214-f4de-4618-98c9-873410738f0c" width="300" height="300"/>
-  </p>
-
-### ⭐Spark 
----
-
-* 주피터 서버에서 pyspark 커널을 통해서 Sparksession을 연결. 커널은 cpu의 자원할당문제로 인해 2개만 생성
+* ufw 리눅스 방화벽을 중지하였습니다. ufw방확벽 때문에 클듬    
 * 전처리 후 데이터 EDA와 집계 테이블 생성 후 Bigquery에 저장, 간단한 시각화
 * SparkML의 분류분석 모델링 
 
