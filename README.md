@@ -35,7 +35,7 @@
         - Hadoop : 3.2.1
         - jdk : 1.8.0
         - spark : 3.2.4
-        - python : 3.10.10 (miniconda 환경)
+        - python : 3.8.0 (miniconda 환경)
 
       haddop 구성 : client , namenode, secondnode, datanode1, datanode2, datanode3, datanode4, datanode5
 
